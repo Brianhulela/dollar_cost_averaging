@@ -1,7 +1,7 @@
 # Dollar-Cost Averaging Trading Strategy
 
 
-![Cover Image](https://github.com/Brianhulela/dollar_cost_averaging/blob/master/TSLA_growth_plot.png)
+![Cover Image](https://github.com/Brianhulela/dollar_cost_averaging/blob/master/TSLA_dca_plot.png)
 
 This repository provides an implementation of the Dollar-Cost Averaging (DCA) strategy using Python. It demonstrates how to simulate regular investments in a stock over time, while accounting for factors such as fees and market volatility.
 
